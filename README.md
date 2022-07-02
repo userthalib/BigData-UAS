@@ -14,5 +14,7 @@ Data didapatkan dari kaggle dengan nama Video Games Sales. Lalu melakukan perhit
 
 ![](picture/2.jpeg)
 
+### Link Video
+https://drive.google.com/file/d/1j-ZpcHrKjJlPpsJRbxT-bhLfFN7hjIoN/view?usp=sharing
 
 
